@@ -1,7 +1,8 @@
 # Hello world
 
 Hello, and welcome to my GitHub profile!
-This repository is used to be the test repo, but I've decided to put some more informations about me. (The "hello-world" guide)
+This repository is used to be the test repo (The "hello-world" guide), but I've decided to put some more informations about me.
 
+About me
 ===========================
-To get started, my name is Antoni A., I live in a town in Switzerland called Aigle. Working as a mechatronician in light vehicles, 
+My name is Antoni A., I live in Aigle, Switzerland. Working as mechatronic engineer on light vehicles, editing files is, for now, learning about random things.
